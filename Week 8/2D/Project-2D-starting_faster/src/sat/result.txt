@@ -1,0 +1,10 @@
+literal1:TRUE
+literal2:TRUE
+literal3:TRUE
+literal4:TRUE
+literal5:TRUE
+literal6:TRUE
+literal7:TRUE
+literal8:TRUE
+literal9:TRUE
+literal10:TRUE
